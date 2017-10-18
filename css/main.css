@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Modak|Yanone+Kaffeesatz");
+
+body{background:#661b00;
+background-image:url("../images/3px-tile.png");
+background:url("https://www.transparenttextures.com/patterns/carbon-fibre-v2.png"),linear-gradient(90deg, #cf5f14, #b83100);
+
+font-family:"Yanone Kaffeesatz",sans-serif, 10pt}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:Modak,Cursive
+}
+
+img{width:100%;
+  height:auto;
+}
+
+h1{font-size:128px;
+color: #ff5100;
+text-shadow: 3px 2px #000000;
+}
+
+p {  padding: 10px;}
